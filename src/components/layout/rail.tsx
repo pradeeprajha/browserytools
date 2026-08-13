@@ -37,7 +37,7 @@ const CATEGORIES = tools
   .sort((a, b) => a.order - b.order)
   .map((c) => ({ id: c.id, count: c.items.length }));
 
-const GITHUB_REPO = "aghyad97/UtilityForge";
+const GITHUB_REPO = "aghyad97/";
 const GITHUB_URL = `https://github.com/${GITHUB_REPO}`;
 
 /* Real star count from the GitHub API — cached per session, hidden on failure.
@@ -149,7 +149,7 @@ export function Rail({
         </span>
         {/* Brand wordmark stays English in every locale (user ruling 2026-07-13);
             the aria-label above remains localized. */}
-        <span className={s.railWordmark}>UtilityForge</span>
+        <span className={s.railWordmark}></span>
       </Link>
 
       <nav className={s.railNav}>
