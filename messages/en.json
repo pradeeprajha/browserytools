@@ -5306,7 +5306,7 @@
     "dropAnyFile": "Drop any file here",
     "dropSuggest": "We'll match it to the right tool — images compress on-device.",
     "starLead": "{count}+ tools. No ads. No account. Nothing uploaded.",
-    "starBody": "UtilityForge is free and stays free. If it saved you time, the fastest way to help you.",
+    "starBody": "UtilityForge is free and stays free. If it saved you time, {starLink} or {coffeeLink}.",
       },
   "Template": {
     "onDevicePromise": "Runs on your device — nothing is uploaded, nothing is stored.",
@@ -5322,8 +5322,8 @@
     "noUpload": "0 bytes uploaded",
     "pitch": "No ads, no account, nothing uploaded.",
     "pitchNetwork": "No ads, no account, no sign-up.",
-    "star": "Star on GitHub",
-    "coffee": "Buy me a coffee",
+    "star": "",
+    "coffee": "",
     "dismiss": "Dismiss"
   },
   "Legal": {
