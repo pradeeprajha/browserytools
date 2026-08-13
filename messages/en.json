@@ -44,7 +44,7 @@
     "new": "New",
     "addToFavorites": "Add to favorites",
     "removeFromFavorites": "Remove from favorites",
-    "siteName": "BrowseryTools",
+    "siteName": "UtilityForge",
     "siteTagline": "Essential Browser-Based Productivity Tools",
     "siteDescription": "Essential browser-based tools for productivity. No servers. Full privacy.",
     "modelDownloadSize": "Downloads a {size} AI model the first time you use this tool — cached in your browser afterward."
@@ -61,7 +61,7 @@
   },
   "Sidebar": {
     "searchPlaceholder": "Search tools...",
-    "logoAlt": "BrowseryTools",
+    "logoAlt": "UtilityForge",
     "comingSoon": "Coming Soon",
     "noToolsFound": "No tools found"
   },
@@ -74,8 +74,8 @@
     "starProject": "Star Project on GitHub",
     "faq": {
       "title": "FAQ",
-      "q1": "What is BrowseryTools?",
-      "a1": "BrowseryTools is a collection of free, open-source, browser-based utilities for images, files, text, audio/video and more—no sign up, no servers.",
+      "q1": "What is UtilityForge?",
+      "a1": "UtilityForge is a collection of free, open-source, browser-based utilities for images, files, text, audio/video and more—no sign up, no servers.",
       "q2": "Do my files leave my device?",
       "a2": "No. All processing happens locally in your browser using Web APIs like WebAssembly and Web Workers. Your files are not uploaded to a server.",
       "q3": "Is it really free?",
@@ -85,8 +85,8 @@
       "a4_link": "GitHub page",
       "q5": "Does it work offline?",
       "a5": "Many tools continue to work after the initial load, but full offline support depends on your browser caching. We're improving this over time.",
-      "q6": "Is BrowseryTools open source?",
-      "a6_pre": "Yes. BrowseryTools is fully open source. You can view the code, report issues, and contribute on our",
+      "q6": "Is UtilityForge open source?",
+      "a6_pre": "Yes. UtilityForge is fully open source. You can view the code, report issues, and contribute on our",
       "a6_link": "GitHub repo"
     }
   },
@@ -5235,7 +5235,7 @@
     }
   },
   "Blog": {
-    "blogTitle": "BrowseryTools Blog",
+    "blogTitle": "UtilityForge Blog",
     "backToTools": "Back to Tools",
     "footerNote": "All tools at BrowseryTools run entirely in your browser — no uploads, no accounts, no ads.",
     "privacyTitle": "All Your Data Stays on Your Device",
@@ -5306,9 +5306,8 @@
     "dropAnyFile": "Drop any file here",
     "dropSuggest": "We'll match it to the right tool — images compress on-device.",
     "starLead": "{count}+ tools. No ads. No account. Nothing uploaded.",
-    "starBody": "BrowseryTools is free and stays free. If it saved you time, the fastest way to help is a star on GitHub.",
-    "starCta": "Star on GitHub"
-  },
+    "starBody": "UtilityForge is free and stays free. If it saved you time, the fastest way to help you.",
+      },
   "Template": {
     "onDevicePromise": "Runs on your device — nothing is uploaded, nothing is stored.",
     "networkNote": "Runs in your browser — live data comes from a public API.",
@@ -5334,12 +5333,12 @@
       "terms": "Terms"
     },
     "common": {
-      "contactLinkText": "Open an issue on GitHub",
+      "contactLinkText": "Open an issue contact throgh email",
       "licenseLinkText": "Read the AGPL-3.0 license"
     },
     "privacy": {
       "title": "Privacy Policy",
-      "intro": "BrowseryTools is built so your files never have a reason to leave your device. This page explains, in plain terms, what that means and what little data we do collect.",
+      "intro": "UtilityForge is built so your files never have a reason to leave your device. This page explains, in plain terms, what that means and what little data we do collect.",
       "noAccountsHeading": "No accounts, no sign-in",
       "noAccountsBody": "There's nothing to register for. We don't ask for your name, email, or payment details, and we don't create a profile for you anywhere.",
       "onDeviceHeading": "Your files never leave your device",
@@ -5357,28 +5356,28 @@
     },
     "terms": {
       "title": "Terms of Use",
-      "intro": "BrowseryTools is free software. By using it, here's what you're agreeing to — and it's shorter than most.",
+      "intro": "UtilityForge is free software. By using it, here's what you're agreeing to — and it's shorter than most.",
       "licenseHeading": "Open source license",
       "licenseBody": "The code is licensed under the GNU Affero General Public License v3.0 (AGPL-3.0). You're free to read it, fork it, and run your own copy, under the terms of that license.",
       "freeHeading": "Free for everyone",
       "freeBody": "Every tool is free to use, for personal and commercial projects alike. No paywalls, no usage limits, no premium tier hiding the good parts.",
       "warrantyHeading": "No warranty",
-      "warrantyBody": "BrowseryTools is provided as-is, with no warranty of any kind. We work to keep every tool accurate and reliable, but you're responsible for verifying results before relying on them for anything important.",
+      "warrantyBody": "UtilityForge is provided as-is, with no warranty of any kind. We work to keep every tool accurate and reliable, but you're responsible for verifying results before relying on them for anything important.",
       "acceptableUseHeading": "Acceptable use",
       "acceptableUseBody": "Use the tools for lawful purposes. You're responsible for the content you process and for complying with any laws that apply to it.",
       "changesHeading": "Changes to these terms",
-      "changesBody": "We may update these terms as the project evolves. Continuing to use BrowseryTools after a change means you accept the new terms.",
+      "changesBody": "We may update these terms as the project evolves. Continuing to use UtilityForge after a change means you accept the new terms.",
       "contactHeading": "Questions",
-      "contactBody": "Questions about these terms are welcome — reach us on GitHub."
+      "contactBody": "Questions about these terms are welcome — reach us."
     }
   },
   "Comparisons": {
     "sectionLabel": "Comparison",
     "tableCaption": "{competitor} compared with BrowseryTools",
     "colAspect": "What matters",
-    "colUs": "BrowseryTools",
+    "colUs": "UtilityForge",
     "colThem": "{competitor}",
-    "edgeUs": "Edge: BrowseryTools",
+    "edgeUs": "Edge: UtilityForge",
     "edgeThem": "Edge: {competitor}",
     "edgeMixed": "Depends on the job",
     "theirEdgeTitle": "Where {competitor} is genuinely better",
