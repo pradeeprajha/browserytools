@@ -5428,7 +5428,7 @@
         "tagline": "Whisper, translation, OCR, segmentation and neural speech, executed on your own CPU or GPU — with the download sizes stated up front.",
         "metaTitle": "On-Device AI Tools — Whisper, Translation, OCR and Image Models Running in Your Browser",
         "metaDescription": "Thirteen tools that download a machine-learning model into your browser and run it there: Whisper transcription, translation with no API, summarisation, classification, PII detection, neural text-to-speech, background removal, upscaling and depth estimation."
-      };
+      },
     }
   }
 }
