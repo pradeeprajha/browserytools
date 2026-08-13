@@ -38,13 +38,13 @@ const ibmPlexSansArabic = IBM_Plex_Sans_Arabic({
 
 export const metadata: Metadata = {
   title: {
-    default: "BrowseryTools — أدواتك | Free Browser-Based Productivity Tools",
-    template: "%s | BrowseryTools — أدواتك",
+    default: "UtilityForge | Free Browser-Based Productivity Tools",
+    template: "%s | UtilityForge",
   },
   description:
     "Essential browser-based tools for productivity. No servers. Full privacy. Convert files, compress images, generate passwords, format code, and more — all in your browser. | أدواتك — كل أدوات المتصفح في مكان واحد. بدون خوادم. خصوصية تامة.",
   keywords: [
-    "browser tools",
+    "utilityforge",
     "productivity tools",
     "file converter",
     "image compression",
@@ -69,15 +69,15 @@ export const metadata: Metadata = {
     "مولد كلمات المرور",
     "أدوات مجانية للمطورين",
   ],
-  authors: [{ name: "aghyadev" }],
-  creator: "aghyadev",
-  publisher: "aghyadev",
+  authors: [{ name: "PradeepRaja" }],
+  creator: "PradeepRaja",
+  publisher: "PradeepRaja",
   formatDetection: {
     email: false,
     address: false,
     telephone: false,
   },
-  metadataBase: new URL("https://browserytools.com"),
+  metadataBase: new URL("https://www.utilityforge.app"),
   alternates: {
     canonical: "/",
   },
@@ -85,28 +85,28 @@ export const metadata: Metadata = {
     type: "website",
     locale: "en_US",
     alternateLocale: ogAlternateLocales(),
-    url: "https://browserytools.com",
-    title: "BrowseryTools — أدواتك | Free Browser-Based Productivity Tools",
+    url: "https://www.utilityforge.app",
+    title: "https://www.utilityforge.app | Free Browser-Based Productivity Tools",
     description:
-      "Essential browser-based tools for productivity. No servers. Full privacy. | أدواتك — كل أدوات المتصفح في مكان واحد. بدون خوادم. خصوصية تامة.",
-    siteName: "BrowseryTools — أدواتك",
+      "Essential browser-based tools for productivity. No servers. Full privacy.",
+    siteName: "UtilityForge",
     images: [
       {
         url: "/og-image.png",
         width: 1200,
         height: 630,
-        alt: "BrowseryTools - Essential Browser-Based Productivity Tools",
+        alt: "UtilityForge - Essential Browser-Based Productivity Tools",
       },
     ],
   },
   twitter: {
     card: "summary_large_image",
-    title: "BrowseryTools — أدواتك | Free Browser-Based Productivity Tools",
+    title: "UtilityForge — أدواتك | Free Browser-Based Productivity Tools",
     description:
-      "Essential browser-based tools for productivity. No servers. Full privacy. | أدواتك — كل أدوات المتصفح في مكان واحد. بدون خوادم. خصوصية تامة.",
+      "Essential browser-based tools for productivity. No servers. Full privacy.",
     images: ["/og-image.png"],
-    creator: "@aghyadev",
-    site: "@aghyadev",
+    creator: "@PradeepRaja",
+    site: "@pradeepraja",
   },
   robots: {
     index: true,
@@ -140,13 +140,13 @@ export const metadata: Metadata = {
   appleWebApp: {
     capable: true,
     statusBarStyle: "default",
-    title: "BrowseryTools",
+    title: "UtilityForge",
   },
   other: {
     "msapplication-TileColor": "#161615",
     "msapplication-config": "/browserconfig.xml",
-    github: "https://github.com/aghyad97",
-    x: "https://twitter.com/aghyadev",
+    github: "https://github.com/pradeeprajha",
+    x: "https://twitter.com/pradeeprajha",
   },
 };
 
