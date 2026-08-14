@@ -1,6 +1,65 @@
 <svg width="750" height="750" viewBox="0 0 750 750" fill="none" xmlns="http://www.w3.org/2000/svg">
-<rect width="250" height="250" fill="black"/>
-<circle cx="500" cy="500" r="250" fill="black"/>
-<path d="M250 750C183.696 750 120.107 723.661 73.2233 676.777C26.3392 629.893 7.90407e-06 566.304 0 500C-7.90407e-06 433.696 26.3392 370.107 73.2233 323.223C120.107 276.339 183.696 250 250 250L250 500L250 750Z" fill="black"/>
-<path d="M750 250C750 217.17 743.534 184.661 730.97 154.329C718.406 123.998 699.991 96.4379 676.777 73.2233C653.562 50.0087 626.002 31.5938 595.671 19.0301C565.339 6.46644 532.83 -1.43507e-06 500 0C467.17 1.43507e-06 434.661 6.46644 404.329 19.0301C373.998 31.5938 346.438 50.0087 323.223 73.2233C300.009 96.438 281.594 123.998 269.03 154.329C256.466 184.661 250 217.17 250 250L500 250H750Z" fill="black"/>
+  <defs>
+    <linearGradient id="utilityForgeBlue" x1="155" y1="130" x2="610" y2="625" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#2563EB"/>
+      <stop offset="52%" stop-color="#0EA5E9"/>
+      <stop offset="100%" stop-color="#06B6D4"/>
+    </linearGradient>
+
+    <linearGradient id="utilityForgeHighlight" x1="220" y1="160" x2="470" y2="540" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0.22"/>
+      <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Main interlocking UF monogram -->
+  <path
+    d="M155 150
+       H255
+       V405
+       C255 458 284 488 335 488
+       C386 488 415 458 415 405
+       V150
+       H515
+       V410
+       C515 528 445 605 335 605
+       C225 605 155 528 155 410
+       V150Z"
+    fill="url(#utilityForgeBlue)"
+  />
+
+  <!-- F structure integrated into the U -->
+  <path
+    d="M415 150
+       H625
+       V245
+       H515
+       V330
+       H605
+       V420
+       H515
+       V605
+       H415
+       V150Z"
+    fill="url(#utilityForgeBlue)"
+  />
+
+  <!-- Precision inner highlight -->
+  <path
+    d="M255 150
+       H315
+       V400
+       C315 432 322 451 335 465
+       C322 478 304 488 282 488
+       C264 488 255 458 255 405
+       V150Z"
+    fill="url(#utilityForgeHighlight)"
+  />
+
+  <!-- Small precision cut creating stronger negative space -->
+  <path
+    d="M515 245H625V275H515V245Z"
+    fill="white"
+    fill-opacity="0.10"
+  />
 </svg>
