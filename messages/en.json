@@ -5305,8 +5305,9 @@
     "recent": "Recently used",
     "dropAnyFile": "Drop any file here",
     "dropSuggest": "We'll match it to the right tool — images compress on-device.",
-    "starLead": "{count}+ tools. No ads. No account. Nothing uploaded.",
-    "starBody": "UtilityForge is free and stays free. If it saved you time, the fastest way to help you."
+    "starLead": "{count} tools. No ads. No account. Nothing uploaded.",
+    "starBody": "UtilityForge is free and stays free. If it saved you time, the fastest way to help you.",
+    "starCta": "Star UtilityForge on GitHub"
       },
   "Template": {
     "onDevicePromise": "Runs on your device — nothing is uploaded, nothing is stored.",
